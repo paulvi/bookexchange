@@ -12,7 +12,13 @@
 8. Speak like a CEO by Suzanne Bates
 9. The essential Drucker
 10. :star: Audacity of hope by Barack Obama.
-11. 
+11. Getting Things Done by David Allen
+12. Steve Jobs by Walter Isaacson
+
+## IT Books
+
+1. JavaScript: The Good Parts by Douglas Crockford
+2. The Clean Coder by Robert C. Martin
 
 # Not my books
 
