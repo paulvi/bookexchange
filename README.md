@@ -19,8 +19,12 @@
 
 1. JavaScript: The Good Parts by Douglas Crockford
 2. The Clean Coder by Robert C. Martin
+3. Hadoop The defnite Guide by Tom White
+4. Hadoop Application Architectures by Mark Grover 
+5. Spark The defnite Guide by Bill Chambers, Matei Zaharia
 
-# Not my books
+
+# Not my books (not with me)
 
 MEN are from MARS, WOMEN are from VENUS by John Gray
 
